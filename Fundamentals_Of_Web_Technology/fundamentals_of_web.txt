@@ -1,0 +1,126 @@
+Fundamental Of Web Tech
+
+How does internet works?
+
+server -> internet-> client
+
+client->www.google.com->ISP->DNS SERVER->IP ADDRESS->return IP ADDRESS to client <=> GOOGLE SERVER
+
+
+What is web development?
+
+When a request is made to a particular server the server will respond back with 3 code files:-
+html
+css
+javaScript
+
+the server will send these 3 combined file and our browser will decode these files and will present
+the web page onto your screen
+
+html is responsible for the structure of your webpage
+css is responsible for styling the structure
+JavaScript will deal with the funcitonality
+
+MEAN Stack:-
+    >> M: MongoDB (Database)
+    >> E: ExpressJs (Backend)
+    >> A: Angular (Fronted)
+    >> N: NodeJs (Backend)
+
+MERN Stack:-
+    >> M: MongoDB
+    >> E: ExpressJs
+    >> R: React
+    >> N: NodeJs
+
+Three Pillars:-
+    >>HTML: Hyper Text Markup Language
+    >>CSS:  Cascading Style Sheet
+    >>JS:   Java Script
+
+Stacks:- MEAN,MERN,Java Full Stack Applications, etc...
+
+With help of HTML and CSS we can create static website, but if we want some dynamic
+funtionality we can use JavaScript(JavaScript is also called the brain of the 
+application because this is where we will have the logical stuffs)
+
+Web Dev:
+    >> Building/Developers Team
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team)
+    >> Maintenance Team/Support Team
+
+SDLC(Software Development Life Cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development)Model
+
+URL(Uniform Resource Locator):  
+    https://www.instagram.com/
+    https://education.raviAcademy.edu/FullStack
+
+    https:          Protocol
+    raviAcademy:    Server/Domain Name
+    education:      Sub-Domain
+    .edu:           TLD(Top Level Domain)
+    FullStack:      Path/Location
+
+Protocol:
+    >> Set of rules/instructions
+        http    : Hyper Text Transfer Protocol
+        https   : Hyper Text Transfer Protocol Secure
+        tcp     : Transmissionn Control Protocol
+        udp     : User Datagram Protocol
+        smtp    : Simple Mail Transfer Protocol
+        ftp     : File Transfeer Protocol
+        ip      : Internet Protocolc (ipV4 & ipV6)
+
+            >> Client/Web Page ------(uName & uPassword)-----> Instagram Server
+                http -> Third party can see our uName & uPassword (hack it)
+                so that we have https(secure) for extra security
+                
+            >> SSL (Secure Socket Layer) Certification
+
+Server/Domain: 
+
+A server is a computer or program that stores data and gives services 
+to other computers. A domain name is the easy-to-read web address people type to find 
+a site, like google.com. A DNS server connects the two by changing that text address 
+into a computer-readable numbers system. 
+
+What is a Server?
+-A powerful computer or software.
+-Holds website files, pictures, or data.
+-Listens for requests from other devices and sends back data.
+
+What is a Domain Name?
+-The text name of a website.
+-Replaces hard-to-remember computer numbers called IP addresses.
+-Example: wikipedia.org or example.com.
+
+How They Work Together:
+-Computers find servers using numbers (IP addresses like 192.0.2.1).
+-People use words (domain names) instead of numbers.
+-A Domain Name Server (DNS) acts like a phone book to match the domain name to the 
+ correct server.
+
+Sub-Domain Name:
+
+-A subdomain is an extra part added to the front of a main domain name to create a 
+ separate section of a website. 
+-It helps organize different functions of a business under one main brand.
+
+ex:- gemini.google.com
+     aws.amazon.com
+      ^
+  subdomain
+
+TLD(Top Level Domain):
+
+-A top-level domain (TLD) is the very last section of a website address, 
+ located right after the final dot. 
+-For example, in google.com, the TLD is .com.
