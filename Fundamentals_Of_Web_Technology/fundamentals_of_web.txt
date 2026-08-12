@@ -124,3 +124,19 @@ TLD(Top Level Domain):
 -A top-level domain (TLD) is the very last section of a website address, 
  located right after the final dot. 
 -For example, in google.com, the TLD is .com.
+    Amazon.in (India)
+    Amazon.com (commercial)
+    Amazon.edu (education)
+    Amazon.uk (united kingdom)
+
+Ofline Editors:
+    >> Notepad
+    >> Notepad ++
+    >> Vs Code
+    >> Sublime
+    >> Open Brackets
+
+Online Editors:
+    >> CodeSpace
+    >> CodeSandbox
+
