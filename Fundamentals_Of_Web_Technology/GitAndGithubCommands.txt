@@ -27,3 +27,7 @@ git add .
 git status
 git commit -m "Commit message"
 git push
+
+--seprate branch : day1Branch
+create a new branch
+git checkout -b "branchName"
