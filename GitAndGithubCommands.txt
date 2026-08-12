@@ -1,0 +1,29 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+new v4
+
+Why do we need Git?
+>> It is distributed (on Cloud)
+>> Colaboration
+>> Tracking
+>> Recovery
+
+>> For the 1st time need to configure github in our system
+git config --global user.name "username"
+git config --global user.email "emailaddress"
+
+Mendatory Commands:
+>> git init
+>> git remote add origin https://github.com/ravi0811/Web-development.git
+
+git pull origin main
+git status
+
+git add Fundamental_of_web_tech.txt or
+git add .
+git status
+git commit -m "Commit message"
+git push
