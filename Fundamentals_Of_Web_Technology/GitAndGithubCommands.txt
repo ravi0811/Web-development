@@ -28,6 +28,12 @@ git status
 git commit -m "Commit message"
 git push
 
+for the first time to make the local branch main from master
+'''git add .
+git commit -m "Clean up pycache and setup gitignore"
+git branch -M main
+git push -u origin main'''
+
 --seprate branch : day1Branch
 create a new branch
 git checkout -b "branchName"
