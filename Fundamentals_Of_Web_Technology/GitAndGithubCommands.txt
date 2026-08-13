@@ -37,3 +37,8 @@ git push -u origin main'''
 --seprate branch : day1Branch
 create a new branch
 git checkout -b "branchName"
+
+--Switch the branch
+git checkout "branchNameWhichNeedsToBeOpened"
+
+git clone url #to clone github projects
